@@ -94,6 +94,7 @@ footer {
         position: relative;
         width: fit-content;
         padding-right: 1em;
+        font-size: 110%;
     }
 
     #navbar {
@@ -106,5 +107,16 @@ footer {
 
     .nav-button-label {
         display: none;
+    }
+
+    #logo {
+        font-size: 250%;
+        line-height: 80px;
+    }
+
+    /* Main content */
+    main {
+        /* Push main content down to accomodate larger header */
+        margin-top: 80px;
     }
 }
