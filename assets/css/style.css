@@ -99,6 +99,15 @@ main {
     padding-left: 1em;
 }
 
+/* Gallery page */
+#photos img {
+    width: 100vw;
+}
+
+#photos {
+    background-color: #690101;
+}
+
 /* Footer */
 footer {
     background-color: #690101;
