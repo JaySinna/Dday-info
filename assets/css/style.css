@@ -93,12 +93,16 @@ main {
 }
 
 #hero-image-cover {
-    background-color: rgba(180, 180, 180, 0.7);
+    background-color: rgba(180, 180, 180, 0.8);
     height: 100%;
     width: 100%;
     font-family: 'Mukta', sans-serif;
     color: #690101;
     padding-left: 1em;
+}
+
+#hero-image-cover-text {
+    color: black;
 }
 
 /* Gallery page */
@@ -168,6 +172,7 @@ form label {
 /* Footer */
 footer {
     background-color: #690101;
+    bottom: 0;
 }
 
 #social-networks {
@@ -220,10 +225,22 @@ footer {
         line-height: 80px;
     }
 
+    #hero {
+        height: 100vh;
+    }
+
     /* Main content */
     main {
         /* Push main content down to accomodate larger header */
         margin-top: 80px;
+    }
+
+    #hero-image-cover {
+        font-size: 130%;
+    }
+
+    #hero-image-cover-text {
+        font-size: 130%;
     }
 
     /* Gallery */
@@ -259,5 +276,13 @@ footer {
         padding: 10px;
         margin: 0;
         margin-bottom: 20px;
+    }
+
+    #hero h2 {
+        padding-top: 60px;
+    }
+
+    #hero-image-cover-text {
+        padding-top: 60px;
     }
 }
