@@ -38,6 +38,15 @@ h1 {
     font-weight: 100;
 }
 
+#navbar {
+    list-style-type: none;
+    font-size: 130%;
+}
+
+.active{
+    border-bottom: 1px solid beige;
+}
+
 /* Main content */
 main {
     background-color: #918e8e;
