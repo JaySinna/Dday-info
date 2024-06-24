@@ -26,6 +26,11 @@ header {
     width: 100%;
 }
 
+nav a {
+    text-decoration: none;
+    color: beige;
+}
+
 h1 {
     font-family: 'Mukta', sans-serif;
 }
