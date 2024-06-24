@@ -26,13 +26,16 @@ header {
     width: 100%;
 }
 
-nav a {
+header a {
     text-decoration: none;
     color: beige;
 }
 
 h1 {
     font-family: 'Mukta', sans-serif;
+    text-transform: uppercase;
+    color: beige;
+    font-weight: 100;
 }
 
 /* Main content */
