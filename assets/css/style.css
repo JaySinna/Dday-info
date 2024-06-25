@@ -17,6 +17,10 @@ body {
     font-family: 'Quicksand', sans-serif;
 }
 
+.hidden-heading {
+    display: none;
+}
+
 /* Header */
 header {
     background-color: #3c3c3c;
