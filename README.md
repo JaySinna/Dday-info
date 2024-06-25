@@ -22,16 +22,15 @@ It will be useful to users by providing them with some introductory information 
 
   - The landing includes a background image of soldiers in a boat preparing for battle to grab users attention and draw them to the topic of the site straight away.
   The image is covered with a greyish tint so that the colours don't distract from the text overlay.
-  - This section introduces the user to Remembering D-Day with a memorable image and 
+  - This section introduces the user to Remembering D-Day with a memorable image.
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
+- __Landing page text__
 
-- __Club Ethos Section__
+  - The text on the landing page begins with the date of the event, June 6th 1944.
+  The date is coloured to match the theme colours of the site, to grab users attention and to stand out from the text.
+  - The section of text underneath the date gives users some basic information about the event, to encourage them to learn more and subscribe to the newsletter on the news page of the site.
 
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
-
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
+![Landing Page Text](assets/images/landing-page-text.webp)
 
 - __Meetup Times section__
 
