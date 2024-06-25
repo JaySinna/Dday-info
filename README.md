@@ -5,7 +5,7 @@ The site also provides users with a gallery of images taken from the event.
 The site is targeted towards people who have an interest in historical events, and who are interested in learning more about what happened on D-Day.
 It will be useful to users by providing them with some introductory information about the event as well as the images, and also an opportunity to subscribe to a newsletter to continue learning more details.
 
-![Responsive Mockup](<assets/images/responsive screenshot.webp>)
+![Responsive Mockup](assets/images/responsive-screenshot.webp)
 
 ## Features 
 
@@ -18,7 +18,7 @@ It will be useful to users by providing them with some introductory information 
 
 ![Nav Bar](assets/images/navbar-screenshot.webp)
 
-- __The landing background page image__
+- __The landing page background image__
 
   - The landing includes a background image of soldiers in a boat preparing for battle to grab users attention and draw them to the topic of the site straight away.
   The image is covered with a greyish tint so that the colours don't distract from the text overlay.
@@ -52,28 +52,31 @@ It will be useful to users by providing them with some introductory information 
 
 - __The Sign Up / Newsletter Page__
 
-  - This page will allow the user to gsubscribe to a Remembering D-Day newsletter, to learn more information about the event. The user will be asked to submit their full name and email address. 
+  - This page will allow the user to subscribe to a Remembering D-Day newsletter, to learn more information about the event. The user will be asked to submit their full name and email address.
+
+- __The Sign Up / Newsletter Page background image__
+
+- The background image for this page is an image of one of the beaches where the event happened, taken from the modern day.
+The image colours stand out much more than the background image on the landing page or the images in the gallery.
+This gives users a feeling of positivity towards subscribing to the newsletter.
 
 ![Sign Up to Newsletter](assets/images/signup-page-screenshot.webp)
 
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
-
 ### Features Left to Implement
 
-- Another feature idea
+- One feature that would be implemented in future would be a link to the signup/newsletter page.
+The link would be placed on the landing page, beneath the text to encourage users who want to learn more.
+- Another feature for the future is an audio/video gallery page, where users can listen to audio and watch video clips taken from the event itself.
 
-## Testing 
+## Testing
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+- I tested that this page works in different browsers, Chrome and Safari.
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+- I confirmed that this project is responsive, looks good and functions on all standard screen sizes using the devtools device toolbar.
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
+- I confirmed that the navigation, header, signup/newsletter page and form input fields are all readable and easy to understand.
 
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
-
+- I have confirmed that the form works: requires entries in every field, will only accept an email address in the email field, and the submit button works.
 
 ### Validator Testing 
 

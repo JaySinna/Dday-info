@@ -89,7 +89,7 @@ main {
 #hero {
     height: 800px;
     width: 100%;
-    background: url("../images/D-Day\ main\ image.webp") no-repeat center center/cover;
+    background: url("../images/D-Day-main-image.webp") no-repeat center center/cover;
 }
 
 #hero-image-cover {
@@ -116,7 +116,7 @@ main {
 
 /* Form */
 #signup {
-    background-image: url("../images/D-Day\ form\ page\ image.webp");
+    background-image: url("../images/D-Day-form-page-image.webp");
     background-size: cover;
     background-position: 100%;
 }
