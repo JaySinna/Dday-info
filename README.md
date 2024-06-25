@@ -29,35 +29,32 @@ It will be useful to users by providing them with some introductory information 
   - The text on the landing page begins with the date of the event, June 6th 1944.
   The date is coloured to match the theme colours of the site, to grab users attention and to stand out from the text.
   - The section of text underneath the date gives users some basic information about the event, to encourage them to learn more and subscribe to the newsletter on the news page of the site.
+  - There are no flashy images or features on the landing page due to the described event being a serious subject, the feel of the landing page is therefore more sombre, as well as the colour palette.
 
 ![Landing Page Text](assets/images/landing-page-text.webp)
 
-- __Meetup Times section__
-
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
-
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
-
 - __The Footer__ 
 
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
+  - The footer section includes links to the relevant social media sites for Remembering D-Day. The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media
 
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
+![Footer with Social Media Icons](assets/images/footer-image.webp)
 
 - __Gallery__
 
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
+  - The gallery provides the user with images taken from the actual event itself.
+  The images are a selection of different aspects of the event, taken at differrent times throughout the day, from travelling in the boats, to landing on the beaches, to moving onwards through the terrain, as well as an image of soldiers helping others that had been wounded.
+  - The final image in the gallery is an image of D-Day veterans today, this image in colourized, to contrast with the images taken from the actual event which are all black and white. 
+  - This gives the user a feel for every aspect of what happened. 
+  - This section is valuable to the user as they can see real moments captured from this historic event. 
 
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
+![Gallery](assets/images/gallery-image.webp)
 
-- __The Sign Up Page__
+- __The Sign Up / Newsletter Page__
 
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
+  - This page will allow the user to gsubscribe to a Remembering D-Day newsletter, to learn more information about the event. The user will be asked to submit their full name and email address. 
 
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
+![Sign Up to Newsletter](assets/images/signup-page-screenshot.webp)
 
 For some/all of your features, you may choose to reference the specific project files that implement them.
 
